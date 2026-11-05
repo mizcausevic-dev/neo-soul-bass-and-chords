@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:15.278034+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z5201-neo-soul-bass-and-chords-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "04fb96541859612132e68ccd73bdf95ccf33082e3f87555b7292d4f7d6eaba59",
+      "errors": []
+    },
+    {
+      "path": "midi/z5201-neo-soul-bass-and-chords-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "a50f4485bc2d293c4939e0e606c4c83e2396d42522db23599b240c0135fcfdbd",
+      "errors": []
+    },
+    {
+      "path": "midi/z5201-neo-soul-bass-and-chords-opening/drums.mid",
+      "bytes": 2642,
+      "sha256": "c4a793986a6319e91a07021b285b2f3f594a11f6ef6bc3f511c244aee733a828",
+      "errors": []
+    },
+    {
+      "path": "midi/z5201-neo-soul-bass-and-chords-opening/principal_motif.mid",
+      "bytes": 835,
+      "sha256": "e85232c02eb11a7cc76ef7190f13bbe58099c7e9930ee010f68d9e0e7a7ab45f",
+      "errors": []
+    },
+    {
+      "path": "midi/z5201-neo-soul-bass-and-chords-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "7470e4cf727725a7d6c3320a51b9d119cebec36f53feaa863e268ec5ec04ed71",
+      "errors": []
+    },
+    {
+      "path": "midi/z5201-neo-soul-bass-and-chords-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "744cefa96a9653cd056043436dc053dd7c88edb3df151353f863bac2a878432c",
+      "errors": []
+    },
+    {
+      "path": "midi/z5201-neo-soul-bass-and-chords-opening/z5201-neo-soul-bass-and-chords-opening-combined.mid",
+      "bytes": 5713,
+      "sha256": "16b2914d59c3e93785b03f597b84c1d36eac8920c83cd10a85d6cf71e36e2238",
+      "errors": []
+    },
+    {
+      "path": "midi/z5202-neo-soul-bass-and-chords-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "911257851bb24bb0a032348a62ff82b4dee11136a169a23f8a32d3b633400847",
+      "errors": []
+    },
+    {
+      "path": "midi/z5202-neo-soul-bass-and-chords-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "06519bff8f91a2bae819ac23991e4eaa8080e79f54dde4216a495dd583186ebe",
+      "errors": []
+    },
+    {
+      "path": "midi/z5202-neo-soul-bass-and-chords-variation/drums.mid",
+      "bytes": 2642,
+      "sha256": "c4a793986a6319e91a07021b285b2f3f594a11f6ef6bc3f511c244aee733a828",
+      "errors": []
+    },
+    {
+      "path": "midi/z5202-neo-soul-bass-and-chords-variation/principal_motif.mid",
+      "bytes": 835,
+      "sha256": "bbcf93ef4fcca020259fb42f1c6cd1ba59428f50d63ea0d00f6f72627b348d3c",
+      "errors": []
+    },
+    {
+      "path": "midi/z5202-neo-soul-bass-and-chords-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "76467076fc8ce3e27c052ab2952d94e6f6437e6e716ea963eb6fb1443f95f4bf",
+      "errors": []
+    },
+    {
+      "path": "midi/z5202-neo-soul-bass-and-chords-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "1aaca61c440d9e6da955159a6aa84f246cb72fba4a1ec45ab5fdeadae351c3ac",
+      "errors": []
+    },
+    {
+      "path": "midi/z5202-neo-soul-bass-and-chords-variation/z5202-neo-soul-bass-and-chords-variation-combined.mid",
+      "bytes": 5713,
+      "sha256": "1eed7c5b3859bed099d5385b1e29474efa6b815a621d3bea712c3ce5d12cc916",
+      "errors": []
+    },
+    {
+      "path": "midi/z5203-neo-soul-bass-and-chords-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "b4554608a72664fb65d3108f617ee6a3df912f034a6bb9d2558fc92e4581b0e3",
+      "errors": []
+    },
+    {
+      "path": "midi/z5203-neo-soul-bass-and-chords-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "414d8c1f709ccd1e4d40cdc65615c7d47eb3152d3b3fb955d944c878739761e2",
+      "errors": []
+    },
+    {
+      "path": "midi/z5203-neo-soul-bass-and-chords-contrast/drums.mid",
+      "bytes": 2642,
+      "sha256": "c4a793986a6319e91a07021b285b2f3f594a11f6ef6bc3f511c244aee733a828",
+      "errors": []
+    },
+    {
+      "path": "midi/z5203-neo-soul-bass-and-chords-contrast/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "dfa4f1c667c8125d441a9f17ca1be4f296beba4aacdcecca0dc0f1bc91e40682",
+      "errors": []
+    },
+    {
+      "path": "midi/z5203-neo-soul-bass-and-chords-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "89d46f58009980c74ac1bacfab676a1fedb05072a6a3fdc01474ac34c2067038",
+      "errors": []
+    },
+    {
+      "path": "midi/z5203-neo-soul-bass-and-chords-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c74787e54a48b079472a8bbc7b4eabab7af9a51983168af74d1932e2357bc087",
+      "errors": []
+    },
+    {
+      "path": "midi/z5203-neo-soul-bass-and-chords-contrast/z5203-neo-soul-bass-and-chords-contrast-combined.mid",
+      "bytes": 5677,
+      "sha256": "76d21596861e3f3876b3a19cdc4596022e025b5d1545154086a2dd132bf4b193",
+      "errors": []
+    },
+    {
+      "path": "midi/z5204-neo-soul-bass-and-chords-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "1a6f196bb4a484837feb524e0b6ba068ced2cc3096e19c72904b70dcd599a775",
+      "errors": []
+    },
+    {
+      "path": "midi/z5204-neo-soul-bass-and-chords-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b2273ae42f9f22d01278d260d3b5a08dc6bd111f86da1595e788578c759258d3",
+      "errors": []
+    },
+    {
+      "path": "midi/z5204-neo-soul-bass-and-chords-return/drums.mid",
+      "bytes": 2642,
+      "sha256": "c4a793986a6319e91a07021b285b2f3f594a11f6ef6bc3f511c244aee733a828",
+      "errors": []
+    },
+    {
+      "path": "midi/z5204-neo-soul-bass-and-chords-return/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "406d670664fecb3114204d00e4228f66fd3eec15963a3ca0148397076cb642f3",
+      "errors": []
+    },
+    {
+      "path": "midi/z5204-neo-soul-bass-and-chords-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "f0a807aee923f8b305c5b43d8bcaa808fa899db776897f88c644657b6837b81f",
+      "errors": []
+    },
+    {
+      "path": "midi/z5204-neo-soul-bass-and-chords-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "63a62efef340da6236a096bea84ab02fa6d0d0e005611c8f94c502d6e82845b5",
+      "errors": []
+    },
+    {
+      "path": "midi/z5204-neo-soul-bass-and-chords-return/z5204-neo-soul-bass-and-chords-return-combined.mid",
+      "bytes": 5677,
+      "sha256": "415662637ab4d881c55aa3fd18a01f8c8d236172ffd91e3f1b42eed2461ef3ba",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

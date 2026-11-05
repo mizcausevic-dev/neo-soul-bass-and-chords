@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/neo-soul-bass-and-chords-simple-synth-preview.mp3",
+  "preview_sha256": "a7e2babb39d4bb44db934c5b026ab0ef9117d689b4b1d3eb95c0cdcb4fc3906a",
+  "source_midi_path": "midi/z5201-neo-soul-bass-and-chords-opening/z5201-neo-soul-bass-and-chords-opening-combined.mid",
+  "source_midi_sha256": "16b2914d59c3e93785b03f597b84c1d36eac8920c83cd10a85d6cf71e36e2238",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z5201",
+    "start_seconds": 0,
+    "end_seconds": 87.273
+  },
+  "measurement": {
+    "sample_peak": 0.150841,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

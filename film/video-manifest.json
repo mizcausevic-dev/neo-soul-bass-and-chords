@@ -1,0 +1,26 @@
+{
+  "title": "Neo-Soul Bass and Chords",
+  "study": "z5201",
+  "bpm": 88,
+  "source_audio": "preview/neo-soul-bass-and-chords-simple-synth-preview.mp3",
+  "source_audio_sha256": "a7e2babb39d4bb44db934c5b026ab0ef9117d689b4b1d3eb95c0cdcb4fc3906a",
+  "source_midi": "midi/z5201-neo-soul-bass-and-chords-opening/z5201-neo-soul-bass-and-chords-opening-combined.mid",
+  "source_midi_sha256": "16b2914d59c3e93785b03f597b84c1d36eac8920c83cd10a85d6cf71e36e2238",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "5e9b944a345411ac13bb818d76c679d7ef21879f4d68bd3a88ad7036e3a7a1fa",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "17ac7124b21eebdb632c2350558b83d67055480e8a9f540acd64b65c1d667db0",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "0a4caa7e544b1f381f3be17c608ef8c58952cb665e2796118d20f4151fc06958",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
