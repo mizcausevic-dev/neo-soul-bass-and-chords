@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/neo-soul-bass-and-chords-midi.zip",
-      "bytes": 32642,
-      "sha256": "caa5271306867daf032ce45291a3ed08cfb73804470564ea6408740864e58b53"
+      "bytes": 33629,
+      "sha256": "405c06a2307e3195c8878069144cd5138f0277f624c949742c3e11c6d56d5e19"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10018,
-      "sha256": "3c4a20a390245560086818ca593eef0aeb641840bb4fff06ed559022bb73dd4a"
+      "bytes": 10208,
+      "sha256": "dbe3ecbc7094f34c772b3f7e85adc1fb23ac9d34cb9a7dc5609a341e66130043"
     },
     {
       "path": "midi/z5201-neo-soul-bass-and-chords-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "415662637ab4d881c55aa3fd18a01f8c8d236172ffd91e3f1b42eed2461ef3ba"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/neo-soul-bass-and-chords-simple-synth-preview.mp3",
       "bytes": 2108439,
       "sha256": "a7e2babb39d4bb44db934c5b026ab0ef9117d689b4b1d3eb95c0cdcb4fc3906a"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3990,
-      "sha256": "ba2db304aed53a39e179db2620abe78839e3e5872d2979fcc530108d545583ef"
+      "bytes": 4105,
+      "sha256": "382f1ecf737a63e6f33a43b6375bc0988642f130106799514b1a5a6baf9ac8cb"
     },
     {
       "path": "social/instagram/caption.txt",
